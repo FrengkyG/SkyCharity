@@ -6,6 +6,7 @@
 
 <main>
   <h1>Frengky Gunawan is Started to Play with <i>Svelte</i></h1>
+  <h2>Im using vercel for CI/CD</h2>
   <div>
     <a href="https://vitejs.dev" target="_blank" rel="noreferrer">
       <img src={viteLogo} class="logo" alt="Vite Logo" />
